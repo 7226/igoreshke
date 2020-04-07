@@ -96,17 +96,6 @@ int _tmain(int argc, _TCHAR* argv[])
 	cout<<"-----------------------------Ðåøåíèå íàéäåíî!---------------------------"<<endl;
 	cout<<"Âûâîä îòñîðòèðîâàííîé ìàòðèöû "<<endl;
 	print_matr( A , N );
-	/*cout << "Âûâîä ìàòðèöû ïî çàäàíèþ ! \n" ;
-	for (int i=0;i<N;i++)
-	{
-		for(int j=0;j<N;j++)
-		{
-			cout<<A[i][j]<<'\t';
-		}
-		cout<<endl;
-	}
-	system("pause");
-	return 0;*/
 	system("pause");
 	return 0;
 }
